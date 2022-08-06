@@ -1,10 +1,10 @@
 # tips-tuesday
 ### What is a Hook?
 A hook is a special function that helps us to access usefull react features.
-For Example useState is a hook that helps to add react state to funcion components.
+For Example useState is a hook that helps to add react state to function components.
 ### When are hooks useful?
 If you have wrote some code in a function component and you realise that the you need to add some state to it, then you can use a hook inside the function component (previosuly it was achieved by changing it to a class). 
-### What does caliing useState do?
+### What does calling useState do?
 It first declares our variable as a state variable. Normally variables disappear when the function exits but the state variables are preserved by React.
 ### What do we pass in useState argument?
 The argument that we pass in useState is the initial state of the hook!
